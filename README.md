@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nguyễn Trường Giang
+##### Hi there 👋, I'm Nguyễn Trường Giang
 
 
 ## 🌐Socials
