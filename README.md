@@ -32,9 +32,18 @@
 </p>
 
 <h3 align="left">Activities</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&locale=en&layout=compact" alt="Owen-JJ" />
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&locale=en&layout=compact" alt="Owen-JJ" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&locale=en" alt="Owen-JJ" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&layout=compact" alt="Owen-JJ" />
-</p>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&layout=compact" alt="Owen-JJ" />
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
