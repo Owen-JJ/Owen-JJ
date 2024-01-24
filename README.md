@@ -19,7 +19,8 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -34,5 +35,5 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&locale=en&layout=compact" alt="Owen-JJ" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&locale=en" alt="Owen-JJ" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3" alt="Owen-JJ" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&layout=compact" alt="Owen-JJ" />
 </>
