@@ -49,7 +49,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-JJ&show_icons=true&bg_color=FFFFFF00&text_color=179fa3&layout=compact" alt="Owen-JJ" />
     </td>
     <td>
-      <p align="center"> 
+      <p align="left"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="50%"/>
       </p>
     </td>
