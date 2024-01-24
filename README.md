@@ -51,7 +51,7 @@
     </td>
     <td>
       <p align="left"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="50%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="75%"/>
       </p>
     </td>
   </tr>
