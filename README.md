@@ -36,8 +36,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owen-JJ&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Owen-JJ&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Owen-JJ&show_icons=true&locale=en&layout=compact" alt="adamwilling" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Owen-JJ&show_icons=true&locale=en" alt="adamwilling" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-JJ&" alt="adamwilling" />
     </td>
     <td>
       <p align="center"> 
