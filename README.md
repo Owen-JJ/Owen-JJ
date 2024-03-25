@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Nguyễn Trường Giang</h1>
 <p align="center">
-  <h3 align="center">Developer Engineer  (NodeJS/Java) </h3>
+  <h3 align="center">Developer Engineer  (Java/NodeJS) </h3>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Owen-JJ&label=Profile%20views&color=0e75b6&style=flat" alt="Owen-JJ" /> </p>
 <h3 align="left">How to reach me</h3>
